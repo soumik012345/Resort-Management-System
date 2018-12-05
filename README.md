@@ -39,4 +39,25 @@ Windows XP Pro SP2 + periodical patches + periodical updates…
 JDK 6 or JDK 5.0 is required for installing and running the NetBeans IDE. You can downloadstandalone JDK or download the latestJDK6 Update 6 with NetBeans IDE Java SE bundle. You can also download the NetBeans IDE as part of theJava EE 5 Tools Bundle orMySQL GlassFish Bundle. We already downloaded, installed and tested theJava JDK previously.
 
 By following this instruction easily can install neatbeans IDE.
+Visit the link for clear concept of installation  https://github.com/soumik012345/Resort-Management-System/issues/1
+
+Installation process of Mysql
+Install MySQL
+Install the MySQL database server on your PC. We will do this using the 'MSI' one-click installer for Windows. Go to http://dev.mysql.com/downloads/ and download the 'MySQL Installer for Windows'. At the time of writing this was from a very obvious graphic at the top of the screen (which I missed the first time).
+Run the installation. Click...
+Install MySQL products
+Accept the license
+Allow the version check (optional)
+At 'Choose a Setup Type' accept the "Developer Default" and click Next
+A number of downloads of required software may be identified. Click Execute and follow onscreen instructions to install them.
+At 'Installation progress' screen, hit Execute - the MySQL software will be installed
+At 'Configuration overview' hit Next to go to the basic configuration screen.
+Accept all the defaults on the 'MySQL Server Configuration' and hit Next.
+On the password screen, supply a password for the 'root' (main administrator) user. Make sure it's one you won't forget. You can also create a 'User' account just for Moodle with more restricted access if you like. This would be good practice on a public server but just using the 'root' user will suffice for testing.
+On the Service details page, accept the defaults and hit Next and then Next a couple more times for the configuration progress.
+Click Finish. Job done.
+MySQL Workbench will open. Under Server Administration (right hand column, double click 'Local MySQL56' (or whatever you called it). A box should pop up asking for the root password. Enter the password you supplied
+The server management screen should appear. You don't have to worry too much about this. It just shows the install is working.
+
+Visit this link to see download procedure of Mysql
 
