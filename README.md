@@ -8,9 +8,9 @@ A software built using JavaFX library on the NetBeans 8.0.2 platform with MySQL 
 Login page linked to login database table
 In this system there admin , accountant, cutomer,staff,Manager need to login first
 At first need to download
-1. Netbeans (Any verson)
-2. Eclips (Any Verson)
-3. Any database for storage this like as Mysql,Microsoft sql,Oracle
++ Netbeans (Any verson)
++ Eclips (Any Verson)
++ Any database for storage this like as Mysql,Microsoft sql,Oracle
 
 At first Collecting this apllication then download this file without this application this installation file can not work so for installing this system need to update verson of these application.
 ## Installing
@@ -42,6 +42,7 @@ By following this instruction easily can install neatbeans IDE.
 Visit the link for clear concept of installation  https://github.com/soumik012345/Resort-Management-System/issues/1
 
 Installation process of Mysql
+
 Install MySQL
 Install the MySQL database server on your PC. We will do this using the 'MSI' one-click installer for Windows. Go to http://dev.mysql.com/downloads/ and download the 'MySQL Installer for Windows'. At the time of writing this was from a very obvious graphic at the top of the screen (which I missed the first time).
 Run the installation. Click...
@@ -85,7 +86,7 @@ I have done all work procedure of this system . so here not contributors who par
 This project has no license. Next time i will try to add license.
 
 ## Acknowledgments
-My class teacher Md. shohel Arman sir inspire me to create this readme file . First time i was could not understand how to start my project but it is a great of matter my class techer always encouradge me always given me suggetion as well as he look after my project if any problem he have me for his responsibility
+My class teacher Md. shohel Arman sir inspire me to create this readme file . First time i was could not understand how to start my project but it is a great of matter my class techer always encouradge me always given me suggetion as well as he look after my project if any problem he have me for his responsibility.To made this file i have got help from google, youtube. From the help of youtube , google and my teacher inspiration that give me strong confidence to made this. 
 
 
 
