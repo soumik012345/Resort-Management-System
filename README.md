@@ -37,5 +37,6 @@ Windows XP Pro SP2 + periodical patches + periodical updates…
 17” SyncMaster 713N monitor.
 
 JDK 6 or JDK 5.0 is required for installing and running the NetBeans IDE. You can downloadstandalone JDK or download the latestJDK6 Update 6 with NetBeans IDE Java SE bundle. You can also download the NetBeans IDE as part of theJava EE 5 Tools Bundle orMySQL GlassFish Bundle. We already downloaded, installed and tested theJava JDK previously.
+
 By following this instruction easily can install neatbeans IDE.
 
