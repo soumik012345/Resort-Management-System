@@ -80,7 +80,7 @@ Now we have only one verson 1.0 . After two months we will release verson 2.0
 
 ## Authors
 + Fahim Muntasir - Initial Worker - Resort Management System
-I have done all work procedure of this system . so here not contributors who participated in this project.
+I have done all work procedure of this system . so here was no contributor who participated in this project.
 
 ## License
 This project has no license. Next time i will try to add license.
