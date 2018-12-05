@@ -65,9 +65,27 @@ Visit this link to see download procedure of Mysql https://github.com/soumik0123
 
 Resort Management System is under development.
 
-Clone using SSH key for your own good.
-You can refer to this link connecting to Github with SSH keys so that you don't need username and password everytime you perform push or pull request.
-Otherwise use HTTPS but you will need password everytime.
+That is verson 1.0 in futuer need to more development for this software for better performing . Now install this software in customer sphere we are try to deployment this software with in two months . In the future verson 2.0 we try to fulfull customer's all requirement . This new verson is more comfortable for user.
 
-That is verson 1.0 in futuer need to more development for this software for better performing . Now install this software in customer sphere we are try to deployment this software with in two months . In the future verson 2.0 we try to fulfull all requirement . This new verson is more comfortable for user.
+## Build With
+
++ Swing
++ Java Jframe
++ Mysql
++ JavaFX library
+
+## Versioning
+Now we have only one verson 1.0 . After two months we will release verson 2.0
+
+## Authors
++ Fahim Muntasir - Initial Worker - Resort Management System
+I have done all work procedure of this system . so here not contributors who participated in this project.
+
+## License
+This project has no license. Next time i will try to add license.
+
+## Acknowledgments
+My class teacher Md. shohel Arman sir inspire me to create this readme file . First time i was could not understand how to start my project but it is a great of matter my class techer always encouradge me always given me suggetion as well as he look after my project if any problem he have me for his responsibility
+
+
 
